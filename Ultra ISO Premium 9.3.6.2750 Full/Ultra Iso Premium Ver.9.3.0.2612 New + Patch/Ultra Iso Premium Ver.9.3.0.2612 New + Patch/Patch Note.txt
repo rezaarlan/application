@@ -1,0 +1,17 @@
+
+
+ Virustotal Scan result Link:
+
+http://www.virustotal.com/analisis/7687eaf410fc21f52d336494ffab45f7
+
+
+Note: Used either serial or patch one have to work. allsow scan with avira, mcafee, and bittdefender came up clean.
+
+
+
+
+Instruction for patch:
+
+afther instalation is finished Copy patch to ultra Iso program directory and run.	
+
+
